@@ -1,0 +1,7 @@
+metric,dimension,value
+revenue,US,60000
+revenue,EU,40000
+signups,,500
+active_users,,12000
+churn_rate,,2.5
+support_tickets,,320

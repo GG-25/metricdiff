@@ -1,0 +1,7 @@
+{
+  "revenue": { "US": 66000, "EU": 40200 },
+  "signups": 620,
+  "active_users": 12100,
+  "churn_rate": 2.5,
+  "refunds": 15
+}
